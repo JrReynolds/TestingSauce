@@ -1,0 +1,589 @@
+1662026955618	geckodriver	INFO	Listening on 127.0.0.1:55709
+1662026958686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileFKO2eK"
+1662026960332	Marionette	INFO	Marionette enabled
+1662026960337	Marionette	INFO	Listening on port 55719
+WebDriver BiDi listening on ws://localhost:55710
+Read port: 55719
+1662026961106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileFKO2eK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55710/devtools/browser/f7b63e3f-6141-4200-b332-baf3c38836c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662026972425	Marionette	INFO	Stopped listening on port 55719
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+[Parent 2236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662026979723	geckodriver	INFO	Listening on 127.0.0.1:55750
+1662026982760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileUEPDt3"
+1662026983147	Marionette	INFO	Marionette enabled
+1662026983154	Marionette	INFO	Listening on port 55760
+WebDriver BiDi listening on ws://localhost:55751
+Read port: 55760
+1662026983544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileUEPDt3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55751/devtools/browser/6a8f193b-59dc-412e-b62b-1047588cc212
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662026993958	Marionette	INFO	Stopped listening on port 55760
+1662027081482	geckodriver	INFO	Listening on 127.0.0.1:55802
+1662027084530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileiOVvU4"
+1662027084913	Marionette	INFO	Marionette enabled
+1662027084919	Marionette	INFO	Listening on port 55813
+WebDriver BiDi listening on ws://localhost:55803
+Read port: 55813
+1662027085337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileiOVvU4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55803/devtools/browser/8f44217b-2f71-42ba-99f7-0ad29cbc296a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027090578	Marionette	INFO	Stopped listening on port 55813
+[Parent 13492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1662027143933	geckodriver	INFO	Listening on 127.0.0.1:55834
+1662027146972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile6M1ODB"
+1662027147342	Marionette	INFO	Marionette enabled
+1662027147347	Marionette	INFO	Listening on port 55844
+WebDriver BiDi listening on ws://localhost:55835
+Read port: 55844
+1662027147839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile6M1ODB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55835/devtools/browser/91ab6572-a2d6-4f51-b5af-34aa4565ced6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027152586	Marionette	INFO	Stopped listening on port 55844
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1662027159468	geckodriver	INFO	Listening on 127.0.0.1:55862
+1662027162511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilec2LXQ7"
+1662027162920	Marionette	INFO	Marionette enabled
+1662027162925	Marionette	INFO	Listening on port 55873
+WebDriver BiDi listening on ws://localhost:55863
+Read port: 55873
+1662027163407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilec2LXQ7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55863/devtools/browser/c69be049-6a05-43ea-acd7-2f4c0b47895a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027169310	Marionette	INFO	Stopped listening on port 55873
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 4808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662027507017	geckodriver	INFO	Listening on 127.0.0.1:55993
+1662027510078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileYWXrQ0"
+1662027510454	Marionette	INFO	Marionette enabled
+1662027510461	Marionette	INFO	Listening on port 56005
+WebDriver BiDi listening on ws://localhost:55994
+Read port: 56005
+1662027510930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileYWXrQ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55994/devtools/browser/79569f19-bdd7-4ea1-bf28-2a9364379c76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027521213	Marionette	INFO	Stopped listening on port 56005
+[Parent 15780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+[Parent 15780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662027527266	geckodriver	INFO	Listening on 127.0.0.1:56046
+1662027530324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilewECUMG"
+1662027530706	Marionette	INFO	Marionette enabled
+1662027530711	Marionette	INFO	Listening on port 56058
+WebDriver BiDi listening on ws://localhost:56047
+Read port: 56058
+1662027531190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilewECUMG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56047/devtools/browser/805729b6-6080-4fd3-8aa5-3524a44aeca0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027540745	Marionette	INFO	Stopped listening on port 56058
+1662027546891	geckodriver	INFO	Listening on 127.0.0.1:56099
+1662027549935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileyAdcCE"
+1662027550313	Marionette	INFO	Marionette enabled
+1662027550318	Marionette	INFO	Listening on port 56112
+WebDriver BiDi listening on ws://localhost:56100
+Read port: 56112
+1662027550877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileyAdcCE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56100/devtools/browser/d0ca24d0-8f9e-4349-98dd-6db615f47d7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027556633	Marionette	INFO	Stopped listening on port 56112
+[Parent 10672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1662027679231	geckodriver	INFO	Listening on 127.0.0.1:56195
+1662027682283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileldACkM"
+1662027682667	Marionette	INFO	Marionette enabled
+1662027682673	Marionette	INFO	Listening on port 56212
+WebDriver BiDi listening on ws://localhost:56196
+Read port: 56212
+1662027683110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileldACkM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56196/devtools/browser/b60e4a56-f561-4725-b231-71f4fdcbb238
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027693449	Marionette	INFO	Stopped listening on port 56212
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1662027699856	geckodriver	INFO	Listening on 127.0.0.1:56256
+1662027702900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile0oncZJ"
+1662027703364	Marionette	INFO	Marionette enabled
+1662027703372	Marionette	INFO	Listening on port 56267
+WebDriver BiDi listening on ws://localhost:56257
+Read port: 56267
+1662027703893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile0oncZJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56257/devtools/browser/ce2c41fc-8ea4-4138-881e-547c86d7c81b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027713802	Marionette	INFO	Stopped listening on port 56267
+1662027720977	geckodriver	INFO	Listening on 127.0.0.1:56309
+1662027724024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilez4mmmi"
+1662027724383	Marionette	INFO	Marionette enabled
+1662027724388	Marionette	INFO	Listening on port 56321
+WebDriver BiDi listening on ws://localhost:56310
+Read port: 56321
+1662027725086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilez4mmmi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56310/devtools/browser/a87dbe42-5df0-419f-9722-9f93313016de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662027730272	Marionette	INFO	Stopped listening on port 56321
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 16040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662057707671	geckodriver	INFO	Listening on 127.0.0.1:54800
+1662057710735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileRujxBA"
+1662057711354	Marionette	INFO	Marionette enabled
+1662057711362	Marionette	INFO	Listening on port 54813
+WebDriver BiDi listening on ws://localhost:54801
+Read port: 54813
+1662057711775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileRujxBA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54801/devtools/browser/8e487852-eac2-43e1-ab74-3de2fac9f7f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662057721561	Marionette	INFO	Stopped listening on port 54813
+[Parent 11468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662057726887	geckodriver	INFO	Listening on 127.0.0.1:54847
+1662057729941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile9IfkI9"
+1662057730379	Marionette	INFO	Marionette enabled
+1662057730389	Marionette	INFO	Listening on port 54858
+WebDriver BiDi listening on ws://localhost:54848
+Read port: 54858
+1662057731001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile9IfkI9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54848/devtools/browser/a5d1e618-7be8-43dd-8930-cd31d4514406
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662057740840	Marionette	INFO	Stopped listening on port 54858
+[Parent 15280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662057746736	geckodriver	INFO	Listening on 127.0.0.1:54895
+1662057749771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilepK9wW4"
+1662057750158	Marionette	INFO	Marionette enabled
+1662057750163	Marionette	INFO	Listening on port 54907
+WebDriver BiDi listening on ws://localhost:54896
+Read port: 54907
+1662057750643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilepK9wW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54896/devtools/browser/a4440042-5c1b-4178-8de2-8070f4d9c098
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662057757087	Marionette	INFO	Stopped listening on port 54907
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: policy is null"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ebay@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+[Parent 15488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662058175628	geckodriver	INFO	Listening on 127.0.0.1:55147
+1662058178703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileILhlTu"
+1662058179107	Marionette	INFO	Marionette enabled
+1662058179112	Marionette	INFO	Listening on port 55158
+WebDriver BiDi listening on ws://localhost:55148
+Read port: 55158
+1662058179456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileILhlTu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55148/devtools/browser/f23f96cc-1580-4ca4-a678-124307774278
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058188967	Marionette	INFO	Stopped listening on port 55158
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 15208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662058194064	geckodriver	INFO	Listening on 127.0.0.1:55947
+1662058197145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileFCuwP2"
+1662058197522	Marionette	INFO	Marionette enabled
+1662058197527	Marionette	INFO	Listening on port 55958
+WebDriver BiDi listening on ws://localhost:55948
+Read port: 55958
+1662058197923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileFCuwP2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55948/devtools/browser/d724ff5a-3ee6-4291-8a34-e0e9d1f1b9c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058202111	Marionette	INFO	Stopped listening on port 55958
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058208416	geckodriver	INFO	Listening on 127.0.0.1:55993
+1662058211491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilefm7FAi"
+1662058211896	Marionette	INFO	Marionette enabled
+1662058211902	Marionette	INFO	Listening on port 56005
+WebDriver BiDi listening on ws://localhost:55994
+Read port: 56005
+1662058212187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilefm7FAi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55994/devtools/browser/824d97ff-6186-4d47-ac05-4900935e716b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058217634	Marionette	INFO	Stopped listening on port 56005
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 14584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+1662058389436	geckodriver	INFO	Listening on 127.0.0.1:56123
+1662058392509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile9NujqF"
+1662058392913	Marionette	INFO	Marionette enabled
+1662058392918	Marionette	INFO	Listening on port 56135
+WebDriver BiDi listening on ws://localhost:56124
+Read port: 56135
+1662058393325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile9NujqF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56124/devtools/browser/ad41cd6c-d388-4f99-91eb-52b2fb96c02a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058397846	Marionette	INFO	Stopped listening on port 56135
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058404914	geckodriver	INFO	Listening on 127.0.0.1:56170
+1662058407992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile93Yqyq"
+1662058408385	Marionette	INFO	Marionette enabled
+1662058408390	Marionette	INFO	Listening on port 56181
+WebDriver BiDi listening on ws://localhost:56171
+Read port: 56181
+1662058408841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile93Yqyq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56171/devtools/browser/b4c5b7bd-98a7-451a-b3a9-4dc7f7792348
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058416167	Marionette	INFO	Stopped listening on port 56181
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058467669	geckodriver	INFO	Listening on 127.0.0.1:56244
+1662058470758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofiley5gkeX"
+1662058471136	Marionette	INFO	Marionette enabled
+1662058471141	Marionette	INFO	Listening on port 56255
+WebDriver BiDi listening on ws://localhost:56245
+Read port: 56255
+1662058471608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofiley5gkeX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56245/devtools/browser/1062aa7c-8760-471b-bc2a-c63a281adaf3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058475926	Marionette	INFO	Stopped listening on port 56255
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058482179	geckodriver	INFO	Listening on 127.0.0.1:56278
+1662058485248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileNHUG74"
+1662058485650	Marionette	INFO	Marionette enabled
+1662058485655	Marionette	INFO	Listening on port 56290
+WebDriver BiDi listening on ws://localhost:56279
+Read port: 56290
+1662058486071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileNHUG74\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56279/devtools/browser/998b22f1-4e59-4cf9-a274-303c856e18cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058492068	Marionette	INFO	Stopped listening on port 56290
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058547898	geckodriver	INFO	Listening on 127.0.0.1:56355
+1662058550970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofiledDu0X6"
+1662058551366	Marionette	INFO	Marionette enabled
+1662058551371	Marionette	INFO	Listening on port 56367
+WebDriver BiDi listening on ws://localhost:56356
+Read port: 56367
+1662058551817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofiledDu0X6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56356/devtools/browser/a51956ab-a34a-4115-8397-d3cddb994fcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058556114	Marionette	INFO	Stopped listening on port 56367
+[Parent 4912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058561999	geckodriver	INFO	Listening on 127.0.0.1:56389
+1662058565067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilebDMjpc"
+1662058565456	Marionette	INFO	Marionette enabled
+1662058565461	Marionette	INFO	Listening on port 56401
+WebDriver BiDi listening on ws://localhost:56390
+Read port: 56401
+1662058566098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilebDMjpc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56390/devtools/browser/37052833-1595-4031-8050-10b248eb8d68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058571500	Marionette	INFO	Stopped listening on port 56401
+[Parent 15224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058602044	geckodriver	INFO	Listening on 127.0.0.1:56437
+1662058605124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileVmg8FP"
+1662058605522	Marionette	INFO	Marionette enabled
+1662058605527	Marionette	INFO	Listening on port 56448
+WebDriver BiDi listening on ws://localhost:56438
+Read port: 56448
+1662058605972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileVmg8FP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56438/devtools/browser/6e154592-ab12-4d43-bf07-835adb68a92d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058610611	Marionette	INFO	Stopped listening on port 56448
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662058617003	geckodriver	INFO	Listening on 127.0.0.1:56471
+1662058620077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileM2adIC"
+1662058620458	Marionette	INFO	Marionette enabled
+1662058620463	Marionette	INFO	Listening on port 56483
+WebDriver BiDi listening on ws://localhost:56472
+Read port: 56483
+1662058620936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileM2adIC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56472/devtools/browser/edbc5be3-4ebc-451e-9072-c7fb94f33948
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058627404	Marionette	INFO	Stopped listening on port 56483
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+1662058660167	geckodriver	INFO	Listening on 127.0.0.1:56537
+1662058663225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile6Oy3Hm"
+1662058663614	Marionette	INFO	Marionette enabled
+1662058663619	Marionette	INFO	Listening on port 56549
+WebDriver BiDi listening on ws://localhost:56538
+Read port: 56549
+1662058664107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofile6Oy3Hm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56538/devtools/browser/a48b7d4a-aa9e-406c-a9ee-da515c533960
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058673774	Marionette	INFO	Stopped listening on port 56549
+[Parent 3404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662058778136	geckodriver	INFO	Listening on 127.0.0.1:56644
+1662058781217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileOLNzf6"
+1662058781633	Marionette	INFO	Marionette enabled
+1662058781638	Marionette	INFO	Listening on port 56655
+WebDriver BiDi listening on ws://localhost:56645
+Read port: 56655
+1662058782128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileOLNzf6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56645/devtools/browser/d016c1d9-88d3-419e-850b-c4f74e1c2f2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058792404	Marionette	INFO	Stopped listening on port 56655
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1662058870616	geckodriver	INFO	Listening on 127.0.0.1:56732
+1662058873683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileAGqh3V"
+1662058874126	Marionette	INFO	Marionette enabled
+1662058874131	Marionette	INFO	Listening on port 56743
+WebDriver BiDi listening on ws://localhost:56733
+Read port: 56743
+1662058874717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileAGqh3V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56733/devtools/browser/427c40ba-7efe-4cff-bb32-17b50eb0e9e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662058884460	Marionette	INFO	Stopped listening on port 56743
+1662059186781	geckodriver	INFO	Listening on 127.0.0.1:56931
+1662059189832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileOfOutS"
+1662059190209	Marionette	INFO	Marionette enabled
+1662059190214	Marionette	INFO	Listening on port 56943
+WebDriver BiDi listening on ws://localhost:56932
+Read port: 56943
+1662059190724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileOfOutS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56932/devtools/browser/a6d7ad2d-f6fb-4d0a-9140-189988f0702b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662059200121	Marionette	INFO	Stopped listening on port 56943
+[Parent 11892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662059321230	geckodriver	INFO	Listening on 127.0.0.1:57039
+1662059324285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilekthdFY"
+1662059324746	Marionette	INFO	Marionette enabled
+1662059324751	Marionette	INFO	Listening on port 57050
+WebDriver BiDi listening on ws://localhost:57040
+Read port: 57050
+1662059325295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofilekthdFY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57040/devtools/browser/848f0c08-cd72-416c-b28e-53b5c12467fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662059335327	Marionette	INFO	Stopped listening on port 57050
+[Parent 6664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+[Parent 6664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662059349497	geckodriver	INFO	Listening on 127.0.0.1:57097
+1662059352570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileBi9OyC"
+1662059352953	Marionette	INFO	Marionette enabled
+1662059352958	Marionette	INFO	Listening on port 57109
+WebDriver BiDi listening on ws://localhost:57098
+Read port: 57109
+1662059353446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileBi9OyC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57098/devtools/browser/9473722b-7948-41ae-b047-ba6cc8aa4bd9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662059358106	Marionette	INFO	Stopped listening on port 57109
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 5940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1662059759751	geckodriver	INFO	Listening on 127.0.0.1:62011
+1662059762837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileKlVbdM"
+1662059763251	Marionette	INFO	Marionette enabled
+1662059763257	Marionette	INFO	Listening on port 62022
+WebDriver BiDi listening on ws://localhost:62012
+Read port: 62022
+1662059763666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileKlVbdM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62012/devtools/browser/329ad2fa-eb98-44fc-9c74-fcaa95d50d9c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662059768447	Marionette	INFO	Stopped listening on port 62022
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 8560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 121: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1662059775751	geckodriver	INFO	Listening on 127.0.0.1:62046
+1662059778805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileC90tRe"
+1662059779225	Marionette	INFO	Marionette enabled
+1662059779233	Marionette	INFO	Listening on port 62058
+WebDriver BiDi listening on ws://localhost:62047
+Read port: 62058
+1662059779686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileC90tRe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62047/devtools/browser/ec1446b7-127e-4096-ae0e-74b25a99fa97
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662059784189	Marionette	INFO	Stopped listening on port 62058
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662059791218	geckodriver	INFO	Listening on 127.0.0.1:62081
+1662059794298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileCSofte"
+1662059794683	Marionette	INFO	Marionette enabled
+1662059794688	Marionette	INFO	Listening on port 62093
+WebDriver BiDi listening on ws://localhost:62082
+Read port: 62093
+1662059795166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jason\\AppData\\Local\\Temp\\rust_mozprofileCSofte\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62082/devtools/browser/ae03ae85-f1ab-4010-9591-8f3617ab57f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1662059800732	Marionette	INFO	Stopped listening on port 62093
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
